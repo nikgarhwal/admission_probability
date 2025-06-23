@@ -32,11 +32,13 @@ The dataset contains information about student profiles (GRE, TOEFL, CGPA, SOP, 
 
 ## 🚀 How to Run
 
-git clone https://github.com/nikgarhwal/admission_probability.git
-cd admission_probability
-pip install -r requirements.txt
-python admission_predictor.py
+- git clone https://github.com/nikgarhwal/admission_probability.git
 
+- cd admission_probability
+
+- pip install -r requirements.txt
+
+- python admission_predictor.py
 
 ---
 ## 📸 Sample Output
