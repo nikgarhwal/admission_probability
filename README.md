@@ -56,3 +56,9 @@ The dataset contains information about student profiles (GRE, TOEFL, CGPA, SOP, 
 ...
 - 🧾 Estimated Chance of Admission: 81.25%
 
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
